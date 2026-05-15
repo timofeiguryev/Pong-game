@@ -4,7 +4,7 @@ Simple game, written in Python, where a player uses a paddle to hit the ball aga
 
 ## About Pong
 
-Pong is one of the earliest arcade games and a pioneering title in the video game industry. Released by Atari in 1972, it was a commercial success and helped establish video games as a viable entertainment medium. The game simulates a virtual table tennis match where two players (or one player vs. AI) control paddles to hit a ball back and forth across the screen.
+Pong is one of the earliest arcade games and a pioneering title in the video game industry. Released by Atari in 1972, it was a commercial success and helped establish video games as a viable enter[...]
 
 ## Overview
 
@@ -12,4 +12,15 @@ This project is a Python implementation of the classic Pong game, recreating the
 
 ## Instructions
 
-Required
+### Required
+
+- **Python 3.8 or higher**
+- **Pygame** (Python library for game development)
+
+### Installation
+
+1. Install Python from [python.org](https://www.python.org) if not already installed
+2. Install Pygame using pip:
+   ```bash
+   pip install pygame
+   ```
