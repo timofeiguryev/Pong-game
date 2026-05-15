@@ -14,7 +14,7 @@ This project is a Python implementation of the classic Pong game, recreating the
 
 ### Required
 
-- **Python 3.8 or higher**
+- **Python 3.14 or higher**
 - **Pygame** (Python library for game development)
 
 ### Installation
