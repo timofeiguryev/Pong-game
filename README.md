@@ -1,2 +1,2 @@
 # Pong game
-Basic Pong game, written in Python
+Simple game, written in Python, where a player uses a paddle to hit the ball against the wall.
