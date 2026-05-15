@@ -24,3 +24,7 @@ This project is a Python implementation of the classic Pong game, recreating the
    ```bash
    pip install pygame
    ```
+
+### Note
+
+This game has been tested and verified to work on **Windows 10**. Compatibility with other operating systems (macOS, Linux, etc.) has not been tested.
