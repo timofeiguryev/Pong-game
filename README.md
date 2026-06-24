@@ -4,11 +4,10 @@ Simple game, written in Python, where a player uses a paddle to hit the ball aga
 
 ## About Pong
 
-Pong is one of the earliest arcade games and a pioneering title in the video game industry. Released by Atari in 1972, it was a commercial success and helped establish video games as a viable entertainment medium.
-
+Pong is one of the earliest arcade games and a pioneering title in the video game industry. Released by Atari in 1972, it was a commercial success.
 ## Overview
 
-This project is a Python implementation of the classic Pong game, recreating the simple yet engaging gameplay that made the original a landmark in gaming history.
+This project is a Python implementation of the classic Pong game, recreating the simple game. 
 
 ## Instructions
 
