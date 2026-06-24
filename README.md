@@ -41,4 +41,4 @@ This game has been tested and verified to work on **Windows 10**. Compatibility 
 
 ## Credits
 
-This project uses code and concepts from **Jason R. Briggs**, with additional custom code and enhancements added by the author.
+This project uses code and concepts from **Jason R. Briggs**, author of Python for Kids: A Playful Introduction To Programming, with additional custom code and enhancements added by me.
