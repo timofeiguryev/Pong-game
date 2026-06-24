@@ -60,6 +60,7 @@ class Ball:
             
             restart_btn = tk.Button(root, text="Play Again", font=("Arial", 14), command=restart_game)
             self.canvas.create_window(250, 230, window=restart_btn)
+            return
             
         if self.hit_paddle(pos) == True:
             self.y = -3
